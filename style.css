@@ -22,6 +22,14 @@ table{
 ul{
     color: whitesmoke;
 }
+
+
 a{
-    color:#42ff00;
+    color:rgb(123, 135, 243));
+}
+a:hover{
+    color: #6fa8dc;
+}
+a:active{
+    color: rgb(0, 255, 0);
 }
