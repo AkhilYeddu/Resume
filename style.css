@@ -1,0 +1,24 @@
+body{
+    background-color: #444444;
+    font-family: "consolas",ans-serif;
+
+}
+h1{
+    color: whitesmoke;
+}
+h4{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+    background-color:#6fa8dc;
+}
+table{
+    color: whitesmoke;
+   padding: 5px;
+   border-color: whitesmoke;
+   border-radius: 10px;;
+}
+ul{
+    color: whitesmoke;
+}
